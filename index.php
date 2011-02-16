@@ -8,7 +8,6 @@
 		<th>Phone</th>
 	</tr>
 <?php
-sdfsdf
 $db = array(
 		array ("John", "E 10th St., NYC, NY 23742", "(212) 555-4456"),
 		array ("Francois", "12 Bd. de Grenelle, Paris, 74897","(33) 433-544"),
@@ -62,7 +61,7 @@ display_workers();
 echo $undefined_variable;
 
 ?>
-
+<p>Hello world!</p>
 </table>
 </BODY>
 </HTML>
